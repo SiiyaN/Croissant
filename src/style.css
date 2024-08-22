@@ -16,7 +16,3 @@ p {
 .croissant-image {
   max-width: 100%;
 }
-a {
-  display: flex;
-  justify-content: space-evenly;
-}
